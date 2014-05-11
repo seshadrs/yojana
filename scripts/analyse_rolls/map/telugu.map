@@ -1,0 +1,157 @@
+# Author (Telugu Mapping): Aasish Pappu <aasish@cs.cmu.edu>
+
+# A General Nasal, and a nasal with n sound
+i	3072	-	-
+n	3073	n	n
+gn	3074	M	M
+
+# The visarga vowel
+v	3075	:	uh0 hh
+
+# List of Full (independent) Vowels.
+i      	3076	-	-
+fv	3077	a	ah0     
+fv	3078	aa	aa1
+fv	3079	i	ih0
+fv	3080	ee	iy1
+fv	3081	u	uh0
+fv	3082	oo	uw1
+fv	3083	ru	r uh0
+fv	3084	lru	l r uh0
+i	3085	-	-
+fv	3086	e	ey0
+fv	3087	e	ey1
+fv	3088	ai	ay1
+i	3089	-	-
+fv	3090	o	ow0
+fv	3091	o	ow1
+fv	3092	au	aw1
+
+# List of consonants
+c	3093	k	k
+c	3094	kh	k hh
+c	3095	g	g
+c	3096	gh	g hh
+c	3097	n	ng
+c	3098	ch	ch
+c	3099	chh	ch hh
+c	3100	j	jh
+c	3101	jh	jh hh
+c	3102	n	n
+c	3103	t	t
+c	3104	th	t
+c	3105	d	d
+c	3106	dh	dh
+c	3107	n	n
+c	3108	t	t
+c	3109	th	th
+c	3110	d	d
+c	3111	dh	dh
+c	3112	n	n
+i	3113	-	-
+c	3114	p	p
+c	3115	ph	p hh
+c	3116	b	b
+c	3117	bh	b hh
+c	3118	m	m
+c	3119	y	y
+c	3120	r	r
+c	3121	r	r
+c	3122	l	l
+c	3123	l	l
+i	3124	-	-
+c	3125	v	v
+c	3126	sh	sh
+c	3127	sh	sh
+c	3128	s	s
+c	3129	h	hh
+i	3130	-	-
+i	3131	-	-
+i	3132	-	-
+# Avagraha (vowel lengthener)
+ag	3133	-	-
+
+
+# List of Vowels that must be preceded by a consonant
+v	3134	aa	aa1
+v	3135	i	ih0
+v	3136	ee	iy1
+v	3137	u	uh0
+v	3138	oo	uw1
+v	3139	ru	r uh0
+v	3140	rru	r r uh0
+i	3141	-	-
+v	3142	e	ey0
+v	3143	e	ey1
+v	3144	ai	ay1
+i	3145	-	-
+v	3146	o	ow0
+v	3147	o	ow1
+v	3148	au	aw1
+
+# The diacritic that surpresses inherant vowel
+x	3149	-	-
+i	3150	-	-
+i	3151	-	-
+i	3152	-	-
+i	3153	-	-
+i	3154	-	-
+i	3155	-	-
+i	3156	-	-
+
+# Various signs and vowel ai preceeded by consonant
+i	3157	-	-
+v	3158	ai	ay1
+i	3159	-	-
+
+# Historic phonemes
+c	3160	ts	ts
+v	3161	dz	dz
+i	3162	-	-
+i	3163	-	-
+i	3164	-	-
+i	3165	-	-
+i	3166	-	-
+i	3167	-	-
+
+# Additional vowels for Sanskrit
+fv	3168	rru	r r uh0
+fv	3169	lru	l r uh0
+
+# Dependent Vowels
+v	3170	rru	r r uh0
+v	3171	lru	l r uh0
+
+# Reserved for devanagari danda, double danda
+i	3172	-	-
+i	3173	-	-
+
+# Digits
+d	3174	0	z ih1 r ow0
+d	3175	1	w ah1 n
+d	3176	2	t uw1
+d	3177	3	th r iy1
+d	3178	4	f ao1 r
+d	3179	5	f ay1 v
+d	3180	6	s ih1 k s
+d	3181	7	s eh1 v ah0 n
+d	3182	8	ey1 t
+d	3183	9	n ay1 n
+i	3184	-	-
+i	3185	-	-
+i	3186	-	-
+i	3187	-	-
+i	3188	-	-
+i	3189	-	-
+i	3190	-	-
+i	3191	-	-
+
+# Telugu fractions and weights
+i	3192	-	-
+i	3193	-	-
+i	3194	-	-
+i	3195	-	-
+i	3196	-	-
+i	3197	-	-
+i	3198	-	-
+i	3199	-	-

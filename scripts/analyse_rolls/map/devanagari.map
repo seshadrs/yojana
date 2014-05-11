@@ -1,0 +1,168 @@
+# A General Nasal, and a nasal with n sound
+n	2305	n	n
+gn	2306	M	M
+
+# The visarga vowel
+v	2307	:	uh0 hh
+
+# List of Full (independent) Vowels. 
+fv	2308	a	ah0     
+fv	2309	a	ah0
+fv	2310	aa	aa1
+fv	2311	i	ih0
+fv	2312	ee	iy1
+fv	2313	u	uh0
+fv	2314	oo	uw1
+fv	2315	ru	r uh0
+fv	2316	lru	l r uh0
+fv	2317	a	ae1
+fv	2318	e	ey0
+fv	2319	e	ey0
+fv	2320	ai	ay1
+fv	2321	a	aa1
+fv	2322	o	ow0
+fv	2323	o	ow1
+fv	2324	au	aw1
+
+# List of consonants
+c	2325	k	k
+c	2326	kh	k hh
+c	2327	g	g
+c	2328	gh	g hh
+c	2329	n	ng
+c	2330	ch	ch
+c	2331	chh	ch hh
+c	2332	j	jh
+c	2333	jh	jh hh
+c	2334	n	n
+c	2335	t	t
+c	2336	th	t
+c	2337	d	d
+c	2338	dh	dh
+c	2339	n	n
+c	2340	t	t
+c	2341	th	th
+c	2342	d	d
+c	2343	dh	dh
+c	2344	n	n
+c	2345	n	n
+c	2346	p	p
+c	2347	ph	p hh
+c	2348	b	b
+c	2349	bh	b hh
+c	2350	m	m
+c	2351	y	y
+c	2352	r	r
+c	2353	r	r
+c	2354	l	l
+c	2355	l	l
+c	2356	l	l
+c	2357	v	v
+c	2358	sh	sh
+c	2359	sh	sh
+c	2360	s	s
+c	2361	h	hh
+
+# List of unusual vowels
+v	2362	oe	w ey0
+v	2363	ooe	w ey1
+
+# Nukta (ignore this)
+i	2364	-	-
+
+# Avagraha (vowel lengthener)
+ag	2365	-	-
+
+# List of Vowels that must be preceded by a consonant
+v	2366	aa	aa1
+v	2367	i	ih0
+v	2368	ee	iy1
+v	2369	u	uh0
+v	2370	oo	uw1
+v	2371	ru	r uh0
+v	2372	rru	r r uh0
+v	2373	a	ae1
+v	2374	e	ey0
+v	2375	e	ey0
+v	2376	ai	ay1
+v	2377	a	aa1
+v	2378	a	ae1
+v	2379	o	ow1
+v	2380	au	aw1
+
+# The diacritic that surpresses inherant vowel
+x	2381	-	-
+
+# Ignore Pristhamatra E
+i	2382	-	-
+
+# More vowels
+v	2383	aw	aw1
+v	2384	aum	a uw1 m
+
+# Devanagari Accents : Ignore
+i	2385	-	-
+i	2386	-	-
+i	2387	-	-
+i	2388	-	-
+
+# More vowels
+v	2389	e	ey1
+v	2390	ue	uw0 ey0
+v	2391	ooe	uw1 ey0
+
+# Consonants
+c	2392	q	k
+c	2393	qh	k hh
+c	2394	g	g
+c	2395	z	zh
+c	2396	r	d
+c	2397	rh	dh
+c	2398	f	f
+c	2399	y	y
+
+# More vowels
+fv	2400	rru	r r uh0
+fv	2401	lru	l r uh0
+v	2402	lru	l r uh0
+v	2403	lrru	l r r uh0
+
+# Punctuation
+p	2404	.	-
+p	2405	.	-
+
+# Digits
+d	2406	0	z ih1 r ow0
+d	2407	1	w ah1 n
+d	2408	2	t uw1
+d	2409	3	th r iy1
+d	2410	4	f ao1 r
+d	2411	5	f ay1 v
+d	2412	6	s ih1 k s
+d	2413	7	s eh1 v ah0 n
+d	2414	8	ey1 t
+d	2415	9	n ay1 n
+
+# Punctuation
+p	2416	.	-
+p	2417	.	-
+
+# Vowel
+fv	2418	a	ae1
+fv	2419	oe	w ey0
+fv	2420	ooe	w ey1
+fv	2421	aw	aw1
+fv	2422	ue	uw0 ey0
+fv	2423	uue	uw1 ey0
+
+# Ignore 
+i	2424	-	-
+
+# More consonants
+c	2425	zh	zh
+c	2426	y	y
+c	2427	gg	g g
+c	2428	jj	jh jh
+i	2429	-	-
+c	2430	dd	d d
+c	2431	bb	b b
