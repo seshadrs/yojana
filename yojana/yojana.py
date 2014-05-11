@@ -57,7 +57,7 @@ class AnomalousRecord(ndb.Model):
 
 
     def toString(self):
-      return '   \t   '.join([self.voterId,self.name,self.gender,self.relation,self.relationName,self.houseId, self.anomalyType, self.constituency, str(self.voterAge)])
+      return '\t,\t'.join([self.voterId,self.name,self.gender,self.relation,self.relationName,self.houseId, self.anomalyType, self.constituency, str(self.voterAge)])
 
 
 class MainPage(webapp2.RequestHandler):
