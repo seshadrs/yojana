@@ -1,4 +1,290 @@
-1	voter1	m	wife	shanti	23h	t1	c1	29
-2	voter2	m	father	ter	23h	t2	c2	96
-3	voter3	f	father	sads	21h	t3	c3	22
-4	voter4	f	father	gsfd	22h	t4	c4	21
+LNK0039099	jamaal dȣn	F	Father	jamaaladȣn	242	Bad_Age	JK_Gandhinagar	109
+LNK0043257	rahamat beebee	M	Husband	basheer ahamad	242	Bad_Age	JK_Gandhinagar	104
+LNK1606805	moinakaa ku maarȣ	F	Father	amaranaath	27	House_Over_Occupied	JK_Gandhinagar	23
+LNK1606813	rakȧ ku maar	M	Father	amaranaath	27	House_Over_Occupied	JK_Gandhinagar	23
+LNK0131334	amaranaath	M	Father	thor raamoo	27	House_Over_Occupied	JK_Gandhinagar	40
+LNK0131342	anooraadhaa	F	Father	sÛt ku maar	27	House_Over_Occupied	JK_Gandhinagar	29
+LNK0131326	nÛd mohan	M	Father	sant ku maar	27	House_Over_Occupied	JK_Gandhinagar	27
+LNK0131318	anuraadhaa	F	Father	sant ku maar	27	House_Over_Occupied	JK_Gandhinagar	29
+LNK0131300	raaj raanee	F	Husband	sant ku maar	27	House_Over_Occupied	JK_Gandhinagar	47
+LNK0131292	sant ku maar	M	Father	amee raam	27	House_Over_Occupied	JK_Gandhinagar	54
+LNK0071837	Ǒkaran baalaa	F	Father	:van[ isamh	27	House_Over_Occupied	JK_Gandhinagar	32
+LNK0070490	rȣtaa devee	F	Father	chhȤloo raam	27	House_Over_Occupied	JK_Gandhinagar	55
+LNK0072892	koo raa raam	F	Father	sohan mal	27	House_Over_Occupied	JK_Gandhinagar	29
+LNK0037853	aÞdal ganee kohalee	F	Father	Ǒfaroz dȣn kohalee	122	House_Over_Occupied	JK_Gandhinagar	33
+LNK0137067	haiÜpee meharaa	M	Father	ǒvajay ku maar	122	House_Over_Occupied	JK_Gandhinagar	27
+LNK0137075	ishav ku maar	M	Father	anoop ku maar	122	House_Over_Occupied	JK_Gandhinagar	26
+LNK0122762	karataaro devee	F	Husband	motee raam	122	House_Over_Occupied	JK_Gandhinagar	99
+LNK0037945	maapaaraa kohalee	M	Father	aÞdal ganee	122	House_Over_Occupied	JK_Gandhinagar	44
+LNK0037929	zarȣnaa kohalee	M	Husband	aÞdal ganee kohalee	122	House_Over_Occupied	JK_Gandhinagar	28
+LNK0037648	shakȧlaa baano	M	Father	jalaal dȣn	122	House_Over_Occupied	JK_Gandhinagar	71
+LNK0037697	leehaa	F	Father	kaakaa	122	House_Over_Occupied	JK_Gandhinagar	62
+LNK0137042	babee meharaa	M	Father	ǒvajay ku maar	122	House_Over_Occupied	JK_Gandhinagar	25
+LNK0137059	lakȧ meharaa	M	Father	ǒvajay ku maar	122	House_Over_Occupied	JK_Gandhinagar	28
+LNK0037937	vaseem kohalee	F	Father	aÞdal ganee	122	House_Over_Occupied	JK_Gandhinagar	91
+LNK0034256	saaboo beebee	F	Father	uãlaah dƣaa	194	House_Over_Occupied	JK_Gandhinagar	35
+LNK0128934	aÛjum raaj	M	Father	belee raam	194	House_Over_Occupied	JK_Gandhinagar	34
+LNK0126631	qhurasheed ahamad	M	Father	jÊgoo qhaan	194	House_Over_Occupied	JK_Gandhinagar	54
+LNK0128702	harajeet kaur	M	Husband	jasabeer isamh	194	House_Over_Occupied	JK_Gandhinagar	57
+LNK0128728	ǒbasan isamh	M	Father	asar isamh	194	House_Over_Occupied	JK_Gandhinagar	28
+LNK0128710	tej veer isamh	F	Father	jasabeer isamh	194	House_Over_Occupied	JK_Gandhinagar	44
+LNK0128744	raaj paal isamh	M	Father	ǒbasan isamh	194	House_Over_Occupied	JK_Gandhinagar	67
+LNK0128736	aǒvanaash kaur	M	Husband	ǒbasan isamh	194	House_Over_Occupied	JK_Gandhinagar	72
+LNK0128793	raveeÛi kaur	F	Father	basaneet isamh	194	House_Over_Occupied	JK_Gandhinagar	34
+LNK0128769	poorav devee	F	Husband	igaradhaarȣ laal	194	House_Over_Occupied	JK_Gandhinagar	31
+LNK0128777	shaaradaa devee	M	Father	igaradhaarȣ al	194	House_Over_Occupied	JK_Gandhinagar	35
+LNK1414242	shaam laal shamaa[	F	Father	laadȣ shamaa[	111	House_Over_Occupied	JK_Gandhinagar	89
+LNK0136671	maheÛi laal	F	Father	kru nn laal	111	House_Over_Occupied	JK_Gandhinagar	30
+LNK0136689	maalaa devee	M	Father	chaman laal	111	House_Over_Occupied	JK_Gandhinagar	31
+LNK0136697	shaaloo	F	Father	chaman laal	111	House_Over_Occupied	JK_Gandhinagar	24
+LNK0136705	monoo ku maar	F	Father	mangal daas	111	House_Over_Occupied	JK_Gandhinagar	26
+LNK0136663	anuraadhaa	F	Husband	kamal ku maar	111	House_Over_Occupied	JK_Gandhinagar	31
+LNK0136713	poojaa devee	M	Father	mangal daas	111	House_Over_Occupied	JK_Gandhinagar	30
+LNK1721158	yashapaal isamh	M	Father	harǔjÛdar isamh	111	House_Over_Occupied	JK_Gandhinagar	22
+LNK1721190	balaraaj kaur	F	Father	harǔjÛdar isamh	111	House_Over_Occupied	JK_Gandhinagar	24
+LNK1414515	manohar laal	F	Father	chuÛnee laal	111	House_Over_Occupied	JK_Gandhinagar	59
+LNK0037317	qaaneeh beebee	M	Husband	muhàmad rafȧq	111	House_Over_Occupied	JK_Gandhinagar	42
+LNK0045385	saageerah beebee	F	Husband	muhàmad rafȧq	111	House_Over_Occupied	JK_Gandhinagar	30
+LNK1414192	rainaa devee	M	Father	ramesh laal	108	House_Over_Occupied	JK_Gandhinagar	27
+LNK0136572	raajesh ku maar	M	Father	dhanee raam	108	House_Over_Occupied	JK_Gandhinagar	28
+LNK0136564	kamal Ǒkashor	F	Father	bamsee laal	108	House_Over_Occupied	JK_Gandhinagar	32
+LNK0136556	meeraa devee	F	Father	bamsee laal	108	House_Over_Occupied	JK_Gandhinagar	51
+LNK0136549	raajaku maarȣ	M	Husband	bamsee laal	108	House_Over_Occupied	JK_Gandhinagar	41
+LNK0136531	raajaku maar	F	Father	saadhoo raam	108	House_Over_Occupied	JK_Gandhinagar	36
+LNK0136523	aneetaa raanee	F	Husband	raajaku maar	108	House_Over_Occupied	JK_Gandhinagar	41
+LNK0136515	suneetaa devee	M	Husband	rǒv ku maar	108	House_Over_Occupied	JK_Gandhinagar	26
+LNK0136507	sohanoo	F	Father	bholaa raam	108	House_Over_Occupied	JK_Gandhinagar	52
+LNK0136499	kru nnaa devee	M	Husband	bholaa raam	108	House_Over_Occupied	JK_Gandhinagar	58
+LNK0043778	muhàmad hasainu	M	Father	baaj dȣn	108	House_Over_Occupied	JK_Gandhinagar	67
+LNK0043885	aÞdal lateef meer	M	Father	aÞdal azeez meer	108	House_Over_Occupied	JK_Gandhinagar	30
+LNK0036871	meshee	F	Father	laaloo	108	House_Over_Occupied	JK_Gandhinagar	38
+LNK0036889	shaahaseen aqhatar	F	Father	muhàmad qaaisam	108	House_Over_Occupied	JK_Gandhinagar	25
+LNK0136317	maalaa devee	F	Father	goku l raam	104	House_Over_Occupied	JK_Gandhinagar	26
+LNK0136309	ǒvannoo devee	F	Husband	goku l raam	104	House_Over_Occupied	JK_Gandhinagar	47
+LNK0136275	saavar sain	F	Father	chaan uƧȣn	104	House_Over_Occupied	JK_Gandhinagar	71
+LNK0136325	goku l raam	M	Father	mulakharaaj	104	House_Over_Occupied	JK_Gandhinagar	49
+LNK0136333	s×yaa devee	F	Husband	chaman laal	104	House_Over_Occupied	JK_Gandhinagar	26
+LNK1708106	ǐrankoo	M	Father	bÍchan laal	104	House_Over_Occupied	JK_Gandhinagar	19
+LNK0136291	kharay laal	F	Father	mammaam	104	House_Over_Occupied	JK_Gandhinagar	71
+LNK1707868	geetaa devee baazeegar	F	Husband	moǑhÛdar laal	104	House_Over_Occupied	JK_Gandhinagar	30
+LNK0036319	qhurasheed beebee	F	Husband	Ǒdalamer ahamad	104	House_Over_Occupied	JK_Gandhinagar	64
+LNK0036848	jaano beebee	F	Father	laaloo	104	House_Over_Occupied	JK_Gandhinagar	27
+LNK0036707	leemaa	F	Husband	chhu paayaa	104	House_Over_Occupied	JK_Gandhinagar	29
+LNK1414184	paramajeet isamh	F	Father	surajeet isamh	104	House_Over_Occupied	JK_Gandhinagar	79
+LNK0135079	geetaa devee	F	Father	nathaaraam	185	House_Over_Occupied	JK_Gandhinagar	32
+LNK0135061	seemaa devee	M	Husband	dȣp ku maar	185	House_Over_Occupied	JK_Gandhinagar	42
+LNK0135095	om ookaash	F	Father	auee faqȧr chand	185	House_Over_Occupied	JK_Gandhinagar	35
+LNK0135087	rajanee devee	F	Father	thoǾ raam	185	House_Over_Occupied	JK_Gandhinagar	35
+LNK0135053	dȣpak ku maar	F	Father	thor raamoo	185	House_Over_Occupied	JK_Gandhinagar	69
+LNK1703743	balee	M	Husband	aÞdal haaimad	185	House_Over_Occupied	JK_Gandhinagar	28
+LNK0042275	fazal hasainu	M	Father	hasain alee	185	House_Over_Occupied	JK_Gandhinagar	30
+LNK0037143	gulaam alee	F	Father	moosaa	185	House_Over_Occupied	JK_Gandhinagar	48
+LNK0042267	muhàmad yoonus	M	Father	moosaa	185	House_Over_Occupied	JK_Gandhinagar	43
+LNK1705326	faaǾq ahamad	F	Father	zor hasainu	185	House_Over_Occupied	JK_Gandhinagar	21
+LNK1706563	inashaad beebee	M	Husband	irafaan hasainu	185	House_Over_Occupied	JK_Gandhinagar	19
+LNK0042416	ǽnu	F	Husband	isaraaj dȣn	160	House_Over_Occupied	JK_Gandhinagar	28
+LNK0042408	googhee	F	Husband	inazaam dȣn	160	House_Over_Occupied	JK_Gandhinagar	29
+LNK0042473	sheemaa	F	Husband	yoosuf	160	House_Over_Occupied	JK_Gandhinagar	33
+LNK0042440	chhȤloo	F	Husband	basheer ahamad	160	House_Over_Occupied	JK_Gandhinagar	61
+LNK0042341	haseenoo	M	Father	ailaf dȣn	160	House_Over_Occupied	JK_Gandhinagar	70
+LNK0134114	kǐrashamaa devee	M	Husband	laal maan	160	House_Over_Occupied	JK_Gandhinagar	69
+LNK0134130	ǒvashaal rainaa	M	Father	laal maan	160	House_Over_Occupied	JK_Gandhinagar	43
+LNK0134122	ashavanee ku maar	F	Father	raam chand	160	House_Over_Occupied	JK_Gandhinagar	67
+LNK0134155	ǒbamalaa devee	M	Husband	om ookaash	160	House_Over_Occupied	JK_Gandhinagar	31
+LNK0134148	pankaj	M	Father	laal maan	160	House_Over_Occupied	JK_Gandhinagar	33
+LNK0134130	ǒband baalaa	M	Husband	mangal raam	160	House_Over_Occupied	JK_Gandhinagar	45
+LNK0133793	raaj ku maar	F	Father	ishavaraam	153	House_Over_Occupied	JK_Gandhinagar	44
+LNK0133785	rekhaa devee	M	Husband	baladev raaj	153	House_Over_Occupied	JK_Gandhinagar	49
+LNK0133777	baladev raaj	M	Father	ishav raam	153	House_Over_Occupied	JK_Gandhinagar	71
+LNK0073890	imi jeet	M	Father	charanadaas	153	House_Over_Occupied	JK_Gandhinagar	70
+LNK0073924	aneetaa devee	M	Father	karataar chand	153	House_Over_Occupied	JK_Gandhinagar	29
+LNK0037135	asamaa lateef	F	Father	aÞdal lateef	153	House_Over_Occupied	JK_Gandhinagar	50
+LNK0037127	zarȣnaa baano	M	Husband	aÞdal lateef	153	House_Over_Occupied	JK_Gandhinagar	48
+LNK0133801	aneetaa devee	M	Husband	raaj ku maar	153	House_Over_Occupied	JK_Gandhinagar	47
+LNK0133819	manohar laal	F	Father	ishav raam	153	House_Over_Occupied	JK_Gandhinagar	39
+LNK0133827	neeǾ raanee	M	Husband	manohar laal	153	House_Over_Occupied	JK_Gandhinagar	40
+LNK0133835	manahar laal	F	Father	ishavaraam	153	House_Over_Occupied	JK_Gandhinagar	34
+LNK0133843	dash[naa devee	M	Husband	charanadaas	153	House_Over_Occupied	JK_Gandhinagar	40
+LNK0133751	sonoo ku maarȣ	F	Father	om ookaash	152	House_Over_Occupied	JK_Gandhinagar	29
+LNK0133744	anooraadhaa	F	Father	om ookaash	152	House_Over_Occupied	JK_Gandhinagar	35
+LNK0133769	ishav raam	F	Father	baarȣ raam	152	House_Over_Occupied	JK_Gandhinagar	27
+LNK0133710	pushapaa devee	M	Husband	om ookaash	152	House_Over_Occupied	JK_Gandhinagar	62
+LNK0133736	renoo baalaa	M	Father	om ookaash	152	House_Over_Occupied	JK_Gandhinagar	31
+LNK0133728	pankaj ku maar	F	Father	om ookaash	152	House_Over_Occupied	JK_Gandhinagar	56
+LNK1704634	alee	F	Father	laalaa	152	House_Over_Occupied	JK_Gandhinagar	23
+LNK1703776	basheer ahamad	M	Father	laalaa	152	House_Over_Occupied	JK_Gandhinagar	23
+LNK1703784	nazeer ahamad	M	Father	moosaa	152	House_Over_Occupied	JK_Gandhinagar	21
+LNK0042200	faatamaa	M	Husband	aÞdal ganee	152	House_Over_Occupied	JK_Gandhinagar	27
+LNK0042176	aÞdal ganee	F	Father	fazal dȣn	152	House_Over_Occupied	JK_Gandhinagar	59
+LNK1708049	surekhaa shamaa[	F	Father	ku ladȣp rafaaj shamaa[	157	House_Over_Occupied	JK_Gandhinagar	23
+LNK1708064	ǐramapee ku maarȣ	F	Father	pavan ku maar	157	House_Over_Occupied	JK_Gandhinagar	19
+LNK0042333	irashaad	F	Father	gulaam hasainu	157	House_Over_Occupied	JK_Gandhinagar	39
+LNK0042382	yoosuf	M	Father	haseenoo	157	House_Over_Occupied	JK_Gandhinagar	35
+LNK0134023	melo raanee	F	Husband	ǒbÛdǾ raam	157	House_Over_Occupied	JK_Gandhinagar	31
+LNK0134007	ramesh chami	F	Father	sooraj ookaash	157	House_Over_Occupied	JK_Gandhinagar	39
+LNK0134015	babalee ku maarȣ	M	Father	ramesh ku maar	157	House_Over_Occupied	JK_Gandhinagar	40
+LNK0133983	Ǿkȧshan ku maar	F	Father	sooraj ookaash	157	House_Over_Occupied	JK_Gandhinagar	46
+LNK0133991	rȣtaa devee	M	Husband	raake sh ku maar	157	House_Over_Occupied	JK_Gandhinagar	44
+LNK0133975	ǒƯaa devee	M	Husband	ku ladȣp raaj	157	House_Over_Occupied	JK_Gandhinagar	49
+LNK0133991	itǐrƯaa	M	Husband	pavan ku maar	157	House_Over_Occupied	JK_Gandhinagar	45
+LNK0133975	ǒƯaa devee	M	Husband	ku ladȣp raaj	157	House_Over_Occupied	JK_Gandhinagar	49
+LNK0133983	raake sh ku maar	F	Father	sooraj ookaash	157	House_Over_Occupied	JK_Gandhinagar	46
+LNK0068940	romaa devee	F	Father	somadƣ	155	House_Over_Occupied	JK_Gandhinagar	34
+LNK0068932	dheeraam kaur	M	Husband	arǒvÛdar isamh	155	House_Over_Occupied	JK_Gandhinagar	39
+LNK0069179	Ïyotee devee	F	Father	amarajeet	155	House_Over_Occupied	JK_Gandhinagar	35
+LNK1567452	shobhaa devee	F	Father	sat paal	155	House_Over_Occupied	JK_Gandhinagar	37
+LNK0074088	arǒvÛdar isamh	M	Father	aasaa isamh	155	House_Over_Occupied	JK_Gandhinagar	59
+LNK0074054	subhaash chami	F	Father	sheetal raam	155	House_Over_Occupied	JK_Gandhinagar	37
+LNK0042242	gulaam hasainu	F	Father	irruaahȣm	155	House_Over_Occupied	JK_Gandhinagar	27
+LNK0042218	jatȣ	F	Husband	moosaa	155	House_Over_Occupied	JK_Gandhinagar	64
+LNK0042234	haleemaa	F	Father	moosaa	155	House_Over_Occupied	JK_Gandhinagar	60
+LNK1606995	gomaa devee	M	Husband	belee raam	155	House_Over_Occupied	JK_Gandhinagar	22
+LNK0133900	kru nn laal	F	Father	suke Ûi laal	155	House_Over_Occupied	JK_Gandhinagar	27
+LNK0133884	seetaa devee	M	Husband	isakÛdar laal	155	House_Over_Occupied	JK_Gandhinagar	48
+LNK0133892	poojaa devee	F	Father	isakÛdar laal	155	House_Over_Occupied	JK_Gandhinagar	46
+LNK0035204	jaainaboo beebee	F	Husband	muhàmad shaah dȣn	208	House_Over_Occupied	JK_Gandhinagar	59
+LNK0035246	zaitoon beebee	F	Father	reham alee	208	House_Over_Occupied	JK_Gandhinagar	27
+LNK1606748	raajesh ku maar	M	Father	naathaa raam	208	House_Over_Occupied	JK_Gandhinagar	43
+LNK0129403	raaj ku maar naragoaa	M	Father	k:toorȣ laal naragoaa	208	House_Over_Occupied	JK_Gandhinagar	26
+LNK0129395	kamal Ǒkashor	F	Father	latay k:toorȣ laal	208	House_Over_Occupied	JK_Gandhinagar	32
+LNK0129387	bandanaa	F	Father	latay k:toorȣ laal	208	House_Over_Occupied	JK_Gandhinagar	34
+LNK0129353	surajeet ku maar	F	Father	k:toorȣ laal	208	House_Over_Occupied	JK_Gandhinagar	57
+LNK0129361	aashaa devee	M	Husband	raaj ku maar	208	House_Over_Occupied	JK_Gandhinagar	40
+LNK0129379	ooshaa ku maarȣ	F	Father	latay k:toorȣ laal	208	House_Over_Occupied	JK_Gandhinagar	36
+LNK0071126	dash[n ku maar	F	Father	samapoon[ chand	208	House_Over_Occupied	JK_Gandhinagar	37
+LNK1705300	gulashan tab:sum	M	Father	muhàmad rafȧq	208	House_Over_Occupied	JK_Gandhinagar	23
+CMV0657833	zeenaan beebee	F	Husband	irruaahȣm	159	Bad_Age	JK_Nargota	103
+CMV0753814	marȣnaa beebee	F	Father	noor muhàmad	137	House_Over_Occupied	JK_Nargota	18
+JRX0008698	sanjay ku maar	M	Father	ammezo raam	137	House_Over_Occupied	JK_Nargota	37
+JRX0008680	pumpaa devee	F	Husband	ammez ǒvaraam	137	House_Over_Occupied	JK_Nargota	59
+JRX0008672	ammez raam	M	Father	teetar raam	137	House_Over_Occupied	JK_Nargota	64
+CMV0760546	aibhashek charagootaraa	M	Father	vilayaa raam	137	House_Over_Occupied	JK_Nargota	20
+CMV0760553	anaaimakaa ku maarȣ	F	Father	dalee raam	137	House_Over_Occupied	JK_Nargota	22
+CMV0097980	gagan isamh	F	Father	sume isamh	137	House_Over_Occupied	JK_Nargota	44
+CMV0097337	balǒvÛdar isamh	M	Father	gulabachan isamh	137	House_Over_Occupied	JK_Nargota	52
+JRX0008714	dash[n laal	M	Father	ammezo raam	137	House_Over_Occupied	JK_Nargota	41
+JRX0008706	ǒvanod ku maar	M	Father	ammezo raam	137	House_Over_Occupied	JK_Nargota	34
+CMV0109280	suneetaa devee	F	Father	ashok ku maar	137	House_Over_Occupied	JK_Nargota	33
+JRX0515908	bachano devee	F	Husband	k:toorȣ laal	137	House_Over_Occupied	JK_Nargota	24
+JRX0007740	madhu baalaa	M	Husband	ǒbÒt raamu	137	House_Over_Occupied	JK_Nargota	36
+JRX0790261	aÛjoo baalaa	F	Husband	aǾn ku maar	139	House_Over_Occupied	JK_Nargota	20
+JRX0790253	ǒvanod ku maar	M	Father	melaa raam	139	House_Over_Occupied	JK_Nargota	50
+CMV0109322	shƠȧ ku maar	M	Father	om ookaash	139	House_Over_Occupied	JK_Nargota	59
+CMV0109355	raanee devee	M	Husband	om ookaash	139	House_Over_Occupied	JK_Nargota	29
+CMV0659060	sushamaa devee	F	Father	om ookaash	139	House_Over_Occupied	JK_Nargota	30
+JRX0515932	neetoo devee	F	Husband	sanjay ku maar	139	House_Over_Occupied	JK_Nargota	24
+JRX0008730	pumpaa devee	F	Husband	roshan laal	139	House_Over_Occupied	JK_Nargota	51
+CMV0760512	poojaa charaghootaraa	F	Father	raajeÛi ku maar	139	House_Over_Occupied	JK_Nargota	20
+CMV0760520	raajeÛi ku maar	M	Father	kaamaa raam	139	House_Over_Occupied	JK_Nargota	51
+CMV0694216	inashaa devee	F	Father	om ookaash	139	House_Over_Occupied	JK_Nargota	51
+CMV0694224	tarasem shamaa[	F	Father	bavaa dƣaa	139	House_Over_Occupied	JK_Nargota	21
+CMV0098616	ke shav isamh	F	Father	dalajeet isamh	139	House_Over_Occupied	JK_Nargota	33
+CMV0075473	uãlaah rakhee	F	Husband	basheer ahamad	268	House_Over_Occupied	JK_Nargota	50
+CMV0534461	qhurasheed beebee	F	Husband	azeez muhàmad	268	House_Over_Occupied	JK_Nargota	28
+CMV0534453	azeez muhàmad	M	Father	basheer ahamad	268	House_Over_Occupied	JK_Nargota	46
+CMV0534479	imayaan qhaan	M	Father	basheer ahamad	268	House_Over_Occupied	JK_Nargota	48
+CMV0075481	muntaaq ahamad	M	Father	azeez muhàmad	268	House_Over_Occupied	JK_Nargota	48
+CMV0075507	muhàmad yoosuf	M	Father	basheer ahamad	268	House_Over_Occupied	JK_Nargota	42
+CMV0075499	iqabaal baano	F	Husband	imayaan qhaan	268	House_Over_Occupied	JK_Nargota	45
+CMV0075465	muqhitayaaraan beebee	F	Husband	baag hasainu	268	House_Over_Occupied	JK_Nargota	73
+CMV0075523	karaamat alee	M	Father	basheer ahamad	268	House_Over_Occupied	JK_Nargota	38
+CMV0534446	basheer ahamad	M	Father	i:maaeel	268	House_Over_Occupied	JK_Nargota	65
+CMV0692426	ǐrayaaz ahamad	M	Father	azeez muhàmad	268	House_Over_Occupied	JK_Nargota	20
+CMV0075564	shaamoon beebee	F	Husband	amaanat alee	268	House_Over_Occupied	JK_Nargota	21
+CMV0692418	asamaa chaudharȣ	F	Father	maan qhaan	268	House_Over_Occupied	JK_Nargota	20
+CMV0075549	faatamaa mubeen	F	Husband	ilayaaqat alee	268	House_Over_Occupied	JK_Nargota	32
+CMV0075556	amaanat alee	M	Father	basheer ahamad	268	House_Over_Occupied	JK_Nargota	29
+CMV0075531	baano beebee	F	Husband	karaamat alee	268	House_Over_Occupied	JK_Nargota	37
+CMV0534487	ilayaaqat alee	M	Father	basheer ahamad	268	House_Over_Occupied	JK_Nargota	34
+CMV0075515	naseem aqhatar	F	Husband	muhàmad yoosuf	268	House_Over_Occupied	JK_Nargota	40
+CMV0770438	aÞdal ganee	M	Father	muhàmad sharȣf	109	House_Over_Occupied	JK_Nargota	21
+JRX0007914	devaraaj	M	Father	hams raaj	109	House_Over_Occupied	JK_Nargota	48
+CMV0770537	suráyaa beebee	F	Husband	aÞdal beebee	109	House_Over_Occupied	JK_Nargota	38
+CMV0770446	muhàmad yoonus	M	Father	aÞdal ganee	109	House_Over_Occupied	JK_Nargota	24
+JRX0007898	suman ku maar	M	Father	vaid ookaash	109	House_Over_Occupied	JK_Nargota	21
+JRX0007906	sangeetaa	F	Husband	devaraaj	109	House_Over_Occupied	JK_Nargota	43
+JRX0007849	vaid ookaash	M	Father	mu	109	House_Over_Occupied	JK_Nargota	55
+JRX0007856	raanɉ devee	F	Husband	vaid ookaash	109	House_Over_Occupied	JK_Nargota	49
+JRX0007864	gaaǾ raam	M	Father	vaid ookaash	109	House_Over_Occupied	JK_Nargota	30
+JRX0007872	jagadȣsh ku maar	M	Father	vaid ookaash	109	House_Over_Occupied	JK_Nargota	29
+JRX0712315	rajanee shamaa[	M	Husband	ajeet raaj	109	House_Over_Occupied	JK_Nargota	24
+JRX0007690	naresh ku maar	M	Father	janak raaj	103	House_Over_Occupied	JK_Nargota	27
+JRX0007708	ǒbashan daas	M	Father	itatǾ raam	103	House_Over_Occupied	JK_Nargota	54
+JRX0007674	chhÛkoo  devee	F	Husband	janak raaj	103	House_Over_Occupied	JK_Nargota	49
+JRX0007682	romesh laal	M	Father	janak raaj	103	House_Over_Occupied	JK_Nargota	27
+CMV0101477	haaimad qhaan	F	Father	haajee karȣm baush	103	House_Over_Occupied	JK_Nargota	32
+CMV0760256	joigandar shamaa[	M	Father	tej raam	103	House_Over_Occupied	JK_Nargota	25
+CMV0760280	meneekaa shamaa[	F	Father	taeej raam	103	House_Over_Occupied	JK_Nargota	22
+CMV0760231	aimat ku maar	M	Father	tej raam	103	House_Over_Occupied	JK_Nargota	23
+JRX0007666	janak raaj	M	Father	teetǾ raam	103	House_Over_Occupied	JK_Nargota	49
+JRX0006247	ghaaǾ devee	F	Father	ratan laal	103	House_Over_Occupied	JK_Nargota	49
+JRX0712281	rajanee devee	F	Husband	gogaa raam	103	House_Over_Occupied	JK_Nargota	21
+JRX0712299	aashaa ku maarȣ	F	Husband	pavan ku maar	103	House_Over_Occupied	JK_Nargota	22
+JRX0515767	samǽ devee	F	Husband	k:toorȣ laal	103	House_Over_Occupied	JK_Nargota	30
+CMV0783571	ranajeet ku maar	M	Father	subhaash chami	176	House_Over_Occupied	JK_Nargota	19
+CMV0759654	aÛjoo devee	F	Father	subhaash chami	176	House_Over_Occupied	JK_Nargota	23
+CMV0759662	sanjeev ku maar	M	Father	subhaash chami	176	House_Over_Occupied	JK_Nargota	23
+CMV0099572	raghoo ratan isamh	M	Father	raghuveer isamh	176	House_Over_Occupied	JK_Nargota	34
+CMV0099580	raajeƳr isamh	M	Father	raghuveer isamh	176	House_Over_Occupied	JK_Nargota	32
+CMV0099598	jagabeer isamh	M	Father	haqȧqat isamh	176	House_Over_Occupied	JK_Nargota	52
+CMV0099564	summaa jamavaal	F	Husband	raghuveer isamh	176	House_Over_Occupied	JK_Nargota	59
+CMV0099549	summaa devee	F	Husband	raameshavar isamh	176	House_Over_Occupied	JK_Nargota	48
+CMV0099556	raghuveer isamh	M	Father	raam isamh	176	House_Over_Occupied	JK_Nargota	64
+CMV0693812	raameshavar isamh	M	Father	raam isamh	176	House_Over_Occupied	JK_Nargota	54
+CMV0099606	neelam jamavaal	F	Husband	jagabeer isamh	176	House_Over_Occupied	JK_Nargota	37
+CMV0099614	udhe ootaab isamh	M	Father	raameshavar isamh	176	House_Over_Occupied	JK_Nargota	24
+CMV0759746	muhàmad ǐrahaan	M	Father	muhàmad lateef	230	House_Over_Occupied	JK_Nargota	19
+CMV0090266	muhàmad lateef	M	Father	sheeloo dȣn	230	House_Over_Occupied	JK_Nargota	49
+CMV0090274	saradaaraan beebee	F	Husband	muhàmad lateef	230	House_Over_Occupied	JK_Nargota	37
+CMV0090282	basheer ahamad	F	Father	sheeloo dȣn	230	House_Over_Occupied	JK_Nargota	39
+CMV0090290	muàtaaz beebee	M	Father	sheeloo dȣn	230	House_Over_Occupied	JK_Nargota	39
+CMV0090241	muhàmad rasheed	M	Father	sheeloo dȣn	230	House_Over_Occupied	JK_Nargota	54
+CMV0760058	sameer ahamad	M	Father	muhàmad rasheed	230	House_Over_Occupied	JK_Nargota	23
+CMV0760074	ǽqhasaanaa	F	Husband	muhàmad rasheed	230	House_Over_Occupied	JK_Nargota	27
+CMV0760066	Ǿbeenaa	F	Father	muhàmad rasheed	230	House_Over_Occupied	JK_Nargota	25
+CMV0090290	jeedȣp isamh jamavaal	F	Father	raajeÛi isamh	230	House_Over_Occupied	JK_Nargota	37
+CMV0090258	shanahash beebee	F	Husband	muhàmad rasheed	230	House_Over_Occupied	JK_Nargota	44
+CMV0109678	jogeÛi laal	F	Father	melaa raam	144	House_Over_Occupied	JK_Nargota	31
+CMV0109660	geetaa devee	F	Husband	madan laal	144	House_Over_Occupied	JK_Nargota	31
+CMV0109694	rekhaa devee	M	Father	igaradhaarȣ laal	144	House_Over_Occupied	JK_Nargota	35
+CMV0109678	dhanee devee	M	Husband	faqȧr chand	144	House_Over_Occupied	JK_Nargota	39
+CMV0109702	madan laal	F	Father	maayaa raam	144	House_Over_Occupied	JK_Nargota	34
+CMV0109629	igaradhaarȣ laal	F	Father	maayaa raam	144	House_Over_Occupied	JK_Nargota	79
+CMV0109637	toshee devee	M	Husband	igaradhaarȣ laal	144	House_Over_Occupied	JK_Nargota	61
+CMV0109645	tarasem laal	M	Father	igaradhaarȣ laal	144	House_Over_Occupied	JK_Nargota	59
+CMV0109652	sohan laal	F	Father	igaradhaarȣ laal	144	House_Over_Occupied	JK_Nargota	28
+JRX0008912	raaj isamh	M	Father	saayam daas	144	House_Over_Occupied	JK_Nargota	44
+JRX0008920	kamalesh devee	F	Husband	raaj isamh	144	House_Over_Occupied	JK_Nargota	39
+JRX0008797	isakÛdayaa devee	M	Husband	yashapaal	142	House_Over_Occupied	JK_Nargota	64
+CMV0109520	ashavanee ku maar	M	Father	shaam laal	142	House_Over_Occupied	JK_Nargota	30
+CMV0109512	ku ladȣp raaj	F	Father	shaam laal	142	House_Over_Occupied	JK_Nargota	34
+CMV0109546	ajay ku maar	F	Father	madan laal	142	House_Over_Occupied	JK_Nargota	27
+CMV0109538	bÛdanaa devee	M	Father	shaam laal	142	House_Over_Occupied	JK_Nargota	28
+CMV0694232	gaaǾ raam	M	Father	geetaan	142	House_Over_Occupied	JK_Nargota	21
+JRX0008813	baladev raaj	F	Father	gaurȣ raam	142	House_Over_Occupied	JK_Nargota	59
+CMV0109496	suresh ku maar	F	Father	ku Ûjoo raam	142	House_Over_Occupied	JK_Nargota	39
+CMV0109504	veenaa devee	M	Husband	suresh ku maar	142	House_Over_Occupied	JK_Nargota	37
+CMV0109470	madan laal	F	Father	ku Ûjoo raam	142	House_Over_Occupied	JK_Nargota	49
+CMV0109488	kalamesh devee	M	Husband	madan laal	142	House_Over_Occupied	JK_Nargota	44
+CMV0109462	rajanee ku maarȣ	M	Husband	shaam laal	142	House_Over_Occupied	JK_Nargota	54
+CMV0759951	Ǒkashan laanagay	M	Father	purashoƣm isamh	142	House_Over_Occupied	JK_Nargota	20
+JRX0712331	k:toorȣ laal	F	Father	karataar chand	142	House_Over_Occupied	JK_Nargota	31
+JRX0712307	meenoo ku maarȣ	F	Father	ǒbashan daas	142	House_Over_Occupied	JK_Nargota	34
+JRX0779710	sanjeev ku maar	M	Father	tejaa raam	143	House_Over_Occupied	JK_Nargota	30
+JRX0790311	ǒooyankaa shamaa[	F	Father	shaam laal	143	House_Over_Occupied	JK_Nargota	89
+CMV0097998	Ǒdalaavar isamh	M	Father	faqȧr isamh	143	House_Over_Occupied	JK_Nargota	71
+CMV0694240	amabo devee	F	Husband	maayaa raam	143	House_Over_Occupied	JK_Nargota	26
+CMV0109603	poojaa devee	F	Husband	sonee ku maar	143	House_Over_Occupied	JK_Nargota	27
+CMV0109553	kamalesh devee	M	Husband	gaaǾ raam	143	House_Over_Occupied	JK_Nargota	57
+CMV0109579	rȣtaa devee	M	Father	gaaǾ raam	143	House_Over_Occupied	JK_Nargota	31
+CMV0109561	sonee ku maar	F	Father	gaaǾ raam	143	House_Over_Occupied	JK_Nargota	54
+JRX0790246	seemaa devee	F	Husband	sanjeev ku maar	143	House_Over_Occupied	JK_Nargota	64
+JRX0790295	shaam laal	M	Father	tejo raam	143	House_Over_Occupied	JK_Nargota	59
+JRX0008870	gaalaa isamh	M	Father	ajamer isamh	143	House_Over_Occupied	JK_Nargota	89
+JRX0008904	rȣtaa shamaa[	M	Husband	subhaash chami	143	House_Over_Occupied	JK_Nargota	64
+JRX0008854	chelaa raam	M	Father	melaa raam	143	House_Over_Occupied	JK_Nargota	48
+JRX0008888	ajamer isamh	F	Father	imi isamh	143	House_Over_Occupied	JK_Nargota	43
+JRX0008821	raanɉ devee	F	Husband	baladev raaj	143	House_Over_Occupied	JK_Nargota	59
+JRX0008862	ratanoo devee	M	Husband	ajamer isamh	143	House_Over_Occupied	JK_Nargota	30
+CMV0098145	aÛjoo baalaa	F	Husband	gagan isamh	143	House_Over_Occupied	JK_Nargota	61
+CMV0540039	mohan laal	F	Father	kru nn laal	143	House_Over_Occupied	JK_Nargota	32
