@@ -20,11 +20,11 @@ MAIN_PAGE_HTML = """\
     <hr>
     <br>
     <form action="/filter_data" method="get">
-      <div> Constituency filter :  <select name="constituencyFilter"> %s  </select> </div>
+      <div> Constituency :  <select name="constituencyFilter"> %s  </select> </div>
       <br>
-      <div> Anomaly filter :  <select name="anomalyFilter"> %s  </select> </div>
+      <div> Anomaly type :  <select name="anomalyFilter"> %s  </select> </div>
       <br>
-      <div><input type="submit" value="Filter anomalous records by Constituency"></div>
+      <div><input type="submit" value="Filter anomalous records"></div>
     </form>
     <br>
     <hr>
