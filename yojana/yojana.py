@@ -86,18 +86,10 @@ class MainPage(webapp2.RequestHandler):
         pass
 
 
-class Guestbook(webapp2.RequestHandler):
-
-    def post(self):
-        self.response.write('<!doctype html><html><body>You wrote:<pre>')
-        self.response.write(cgi.escape(self.request.get('content')))
-        self.response.write(cgi.escape(self.request.get('bday')))
-        self.response.write('</pre></body></html>')
-
-
 class ShowAllData(webapp2.RequestHandler):
 
   def get(self):
+    self.response.write('\t,\t'.join(['<b>VOTER_ID</b>','<b>NAME</b>','<b>GENDER</b>','<b>RELATION</b>','<b>RELATION_NAME</b>','<b>HOUSE_ID</b>', '<b>ANOMALY_TYPE</b>', '<b>CONSTITUENCY</b>', '<b>VOTER_AGE</b>'])+'<br><br>')
     for r in AnomalousRecord.query(ancestor=ndb.Key(AnomalousRecord,APP_ID)).fetch():
       self.response.write(r.toString()+'<br>')
 
@@ -123,6 +115,7 @@ class ReloadAllData(webapp2.RequestHandler):
 
 class FilterData(webapp2.RequestHandler):
   def get(self):
+    self.response.write('\t,\t'.join(['<b>VOTER_ID</b>','<b>NAME</b>','<b>GENDER</b>','<b>RELATION</b>','<b>RELATION_NAME</b>','<b>HOUSE_ID</b>', '<b>ANOMALY_TYPE</b>', '<b>CONSTITUENCY</b>', '<b>VOTER_AGE</b>'])+'<br><br>')
     constituencyToFilter = self.request.get('constituencyFilter')
     anomalyToFilter = self.request.get('anomalyFilter')
     if constituencyToFilter=="all":
@@ -142,7 +135,6 @@ class FilterData(webapp2.RequestHandler):
 
 application = webapp2.WSGIApplication([
     ('/', MainPage),
-    ('/sign', Guestbook),
     ('/show_data', ShowAllData),
     ('/reload_data', ReloadAllData),
     ('/filter_data', FilterData),
